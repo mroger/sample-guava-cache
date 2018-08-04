@@ -4,9 +4,9 @@ import br.org.roger.spring.domain.Person;
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import javax.inject.Inject;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -24,7 +24,7 @@ public class MyService {
                 }
             });
 
-    @Inject
+    @Autowired
     private PersonService personService;
 
     public List<Person> loadPersons() {
