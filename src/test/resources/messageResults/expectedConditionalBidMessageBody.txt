@@ -1,0 +1,42 @@
+Prezado cliente,
+
+            Informamos que o seu lance foi o vencedor, conforme indicado abaixo:
+
+            Leilao: 6 - Auction Desc 1
+            Data do Leilao: Domingo, 1 de Julho de 2018
+            Comitente: Comitente Name 1
+            Lote: Number desc 1
+            Descricao do Lote: Product Short Desc 1
+            Valor do lance: R$ 100,00 (BRL)
+            Comissao do Leiloeiro: R$ 4,00 (BRL)
+            Comissao da Cessionaria: R$ 6,00 (BRL)
+            Encargos de administração: R$ 10,00 (BRL)
+            Não estão inclusos os impostos.
+
+            teste: TOTAL A PAGAR:     R$ 56,00 (BRL)
+
+            Para imprimir o boleto bancário correspondente ao valor do lote arrematado, da comissão do leiloeiro oficial e dos encargos de administração, clique no endereço abaixo:
+
+            http://portalOfficialURL
+
+            Obs.: Será necessário digitar login e senha.
+
+            Caso o link acima não esteja disponível, entre diretamente no endereço:
+            http://portalOfficialURL.
+
+            IMPORTANTE: O pagamento deverá ser realizado, obrigatoriamente, através da forma disponibilizada na seção "Minha Conta", "Pendências" no Portal Superbid. Em casos de boleto bancário não serão aceitos pagamentos via TED (Transf. Eletrônica Disponível), DOC (Doc. Ordem de Crédito) ou Depósito Bancário. Em casos de instrução bancária o pagamento deverá ser realizado via TED, DOC ou Depósito Bancário.
+
+            O não pagamento do preço do(s) bem(ns) arrematado(s), da comissão do Leiloeiro Oficial, da comissao da Cessionária e dos Encargos de administração, se o caso , no prazo previsto no "Edital do Leilão", configurará desistência ou arrependimento por parte do arrematante, ficando este obrigado a pagar o valor da comissão devida ao Leiloeiro (2.0%) e o valor correspondente a 6.0% do lance ou proposta efetuada, destinado ao reembolso das despesas incorridas.
+
+            Para comunicar qualquer problema com a emissão do seu boleto bancário, entre em contato com a nossa Central de Atendimento no tel: (+55) (11) 966667777, fax: (+55) (21) 966668888 ou via e-mail: cacEmail.
+
+
+            Agradecemos a sua participacão.
+
+            Atenciosamente,
+            Cobrança portalDescription
+            cacEmail
+
+
+
+            email_tipo_id:26

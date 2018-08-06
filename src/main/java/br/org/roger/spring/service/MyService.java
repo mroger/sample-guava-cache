@@ -16,6 +16,8 @@ public class MyService {
 
     private LoadingCache<Long, Person> personCache = CacheBuilder.newBuilder()
         .maximumSize(200)
+        .weakKeys()
+        .weakValues()
         .expireAfterWrite(30, TimeUnit.MINUTES)
         .build(
             new CacheLoader<Long, Person>() {

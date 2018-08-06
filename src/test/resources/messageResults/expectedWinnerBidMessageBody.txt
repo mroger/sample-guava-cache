@@ -1,0 +1,43 @@
+Prezado cliente,
+
+Parabéns, seu lance foi o vencedor, conforme indicado abaixo:
+
+    Leilao: 6 - Auction Desc 1
+    Data do Leilao: Domingo, 1 de Julho de 2018
+    Vendedor: Comitente Name 1
+    Lote: Number desc 1
+    Descricao do Lote: Product Short Desc 1
+    Valor do lance: R$ 100,00 (BRL)
+    Comissao do Leiloeiro: R$ 4,00 (BRL)
+    Comissao da Cessionaria: R$ 6,00 (BRL)
+    Encargos de administração: R$ 10,00 (BRL)
+    Não estão inclusos os impostos.
+
+teste: TOTAL A PAGAR: 		R$ 56,00 (BRL)
+
+Para realizar o pagamento, acesse nosso site www.superbid.net, insira seu login e senha e selecione as opções:
+    
+     > Sua Conta > Suas Compras > Leilão
+            > Localize o lote arrematado e clique em realizar pagamento
+
+Importante:
+ 
+    Você será direcionado para o site da S4Pay - Plataforma de Meios de Pagamento Onlinedo Grupo Superbid:
+
+   >  Confira os seus dados cadastrais e os dados do favorecido.
+   >  Clique em "Continuar Pagamento";
+   >  Escolha uma das opções disponíveis:
+
+      * Boleto 
+      * TEF (Transferência Eletrônica de Fundos) caso você seja correntista do Banco Itaú
+
+Observação: O não pagamento do preço do(s) bem(ns) arrematado(s), da comissão do Leiloeiro Oficial, da comissao da Cessionária e dos Encargos de administração,  se o caso , no prazo previsto no &quot;Edital do Leilão&quot;, configurará desistência ou arrependimento por parte do arrematante, ficando este obrigado a pagar o valor da comissão devida ao Leiloeiro (2.0%) e o valor correspondente a 6.0% do lance ou proposta efetuada, destinado ao reembolso das despesas incorridas.
+
+
+   Qualquer dúvida, entre em contato conosco! Envie seu e-mail para cacEmail ou ligue para (+55) (21) 966668888.
+   Agradecemos sua participação no leilão Superbid!
+
+   Atenciosamente,
+   Equipe Superbid
+
+POR FAVOR NÃO RESPONDA ESTE E-MAIL
